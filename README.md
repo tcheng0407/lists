@@ -7,7 +7,7 @@
 ## 健康饮食
 ### 日常
 综述
-![哈佛大学公共卫生学院健康饮食餐盘](file:///var/folders/7h/6jvcxxvs1tqbbttl4fnb_s5h0000gn/T/WizNote/13d1312a-893b-4981-9a0c-e0204159d3c7/index_files/69756593.png)
+![哈佛大学公共卫生学院健康饮食餐盘]()
 
 
 
